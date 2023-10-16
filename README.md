@@ -89,7 +89,7 @@
   <a><strong>USE OF LANGUAGES</strong></a>
 </div>
 <div align="center">
-	<a href="https://github.com/makarasty?tab=repositories" style="user-select: none; text-decoration: none;">
+	<a href="#" style="user-select: none; text-decoration: none;">
 		<img alt="stats"
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaKarastY&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 	</a>
